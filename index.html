@@ -3,12 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random PDF Files</title>
+    <title>File and Folder Viewer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #444;
         }
         ul {
             list-style: none;
@@ -20,22 +26,43 @@
         a {
             text-decoration: none;
             color: #007BFF;
+            transition: color 0.3s;
         }
         a:hover {
             text-decoration: underline;
+            color: #0056b3;
         }
         .folder {
             font-weight: bold;
             cursor: pointer;
         }
+        .folder:hover {
+            color: #555;
+        }
+        .nested {
+            display: none;
+            margin-left: 20px;
+            border-left: 1px dashed #ccc;
+            padding-left: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
-    <h1>File and Folder Viewer</h1>
-    <div id="file-list-container"></div>
+    <div class="container">
+        <h1>File and Folder Viewer</h1>
+        <div id="file-list-container"></div>
+    </div>
 
     <script>
-        // Sample JSON file path
+        // JSON file path
         const jsonFilePath = "data.json";
 
         // Fetch and display the files and folders
