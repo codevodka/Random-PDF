@@ -9,5 +9,16 @@
                 "path": "Udemy-The%20Complete%20Data%20Structures%20and%20Algorithms%20Course%20in%20Python/01-How-to-measure-the-codes-using-Big-O.pdf"
             }
         ]
+    },
+    {
+        "type": "folder",
+        "name": "Udemy - Web Scraping in Python Selenium, Scrapy",
+        "children": [
+            {
+                "type": "file",
+                "name": "Web-Scraping-Cheat-Sheet.pdf",
+                "path": "Udemy%20-%20Web%20Scraping%20in%20Python%20Selenium%2C%20Scrapy/Web-Scraping-Cheat-Sheet.pdf"
+            }
+        ]
     }
 ]
