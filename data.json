@@ -20,5 +20,16 @@
                 "path": "Udemy%20-%20Web%20Scraping%20in%20Python%20Selenium%2C%20Scrapy/Web-Scraping-Cheat-Sheet.pdf"
             }
         ]
+    },
+    {
+        "type": "folder",
+        "name": "Maths",
+        "children": [
+            {
+                "type": "file",
+                "name": "Hexadecimal-x-Table.pdf",
+                "path": "Maths/Hexadecimal-x-Table.pdf"
+            }
+        ]
     }
 ]
