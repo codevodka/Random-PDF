@@ -31,5 +31,17 @@
                 "path": "Maths/Hexadecimal-x-Table.pdf"
             }
         ]
+    },
+    {
+        "type": "folder",
+        "name": "Maths",
+        "children": [
+            {
+                "type": "file",
+                "name": "Algebra Formulas",
+                "path": "Maths/algebra-1.formulas.pdf"
+            }
+        ]
     }
+    
 ]
