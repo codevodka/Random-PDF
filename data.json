@@ -29,13 +29,7 @@
                 "type": "file",
                 "name": "Hexadecimal-x-Table.pdf",
                 "path": "Maths/Hexadecimal-x-Table.pdf"
-            }
-        ]
-    },
-    {
-        "type": "folder",
-        "name": "Maths",
-        "children": [
+            },
             {
                 "type": "file",
                 "name": "Algebra Formulas",
@@ -43,5 +37,4 @@
             }
         ]
     }
-    
 ]
