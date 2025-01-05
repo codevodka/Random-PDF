@@ -56,6 +56,12 @@
                 "name": "Samba File Sharing",
                 "path": "random/Samba File Share Settings v2.pdf"
             }
+            ,
+            {
+                "type": "file",
+                "name": "Home Server Setup",
+                "path": "random/home-server-setup.pdf"
+            }
         ]
     }
 ]
