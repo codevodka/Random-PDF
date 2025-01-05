@@ -45,6 +45,11 @@
                 "type": "file",
                 "name": "Steps To Check after installing a new ubuntu server",
                 "path": "random/Server Setup - First Five Minutes.pdf"
+            },
+            {
+                "type": "file",
+                "name": " Set up Admin Database User Account",
+                "path": "random/Set up Admin Database User Account.pdf"
             }
         ]
     }
