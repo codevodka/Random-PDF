@@ -48,8 +48,13 @@
             },
             {
                 "type": "file",
-                "name": " Set up Admin Database User Account",
+                "name": "Set up Admin Database User Account",
                 "path": "random/Set up Admin Database User Account.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Samba File Sharing",
+                "path": "random/Samba File Share Settings v2.pdf"
             }
         ]
     }
