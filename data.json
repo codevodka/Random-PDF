@@ -36,5 +36,16 @@
                 "path": "Maths/algebra-1.formulas.pdf"
             }
         ]
+    },
+    {
+        "type": "folder",
+        "name": "Random Stuffs",
+        "children": [
+            {
+                "type": "file",
+                "name": "Steps To Check after installing a new ubuntu server",
+                "path": "random/Server Setup - First Five Minutes.pdf"
+            }
+        ]
     }
 ]
