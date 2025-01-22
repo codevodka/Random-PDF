@@ -34,6 +34,16 @@
                 "type": "file",
                 "name": "Algebra Formulas",
                 "path": "Maths/algebra-1.formulas.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Precalculus Formulas",
+                "path": "Maths/Precalculus-formulas.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Trigonometry Formulas",
+                "path": "Maths/Trigonometry-formulas.pdf"
             }
         ]
     },
