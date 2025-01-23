@@ -70,6 +70,11 @@
                 "type": "file",
                 "name": "Home Server Setup",
                 "path": "random/home-server-setup.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Docker Compose",
+                "path": "random/docker-S06-Compose-Slides.pdf"
             }
         ]
     }
