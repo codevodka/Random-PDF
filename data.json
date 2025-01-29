@@ -75,6 +75,11 @@
                 "type": "file",
                 "name": "Docker Compose",
                 "path": "random/docker-S06-Compose-Slides.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Docker Swarm",
+                "path": "random/docker-Swarm-Intro-Slides.pdf"
             }
         ]
     }
