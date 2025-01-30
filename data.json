@@ -80,6 +80,11 @@
                 "type": "file",
                 "name": "Docker Swarm",
                 "path": "random/docker-Swarm-Intro-Slides.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Docker Swarm Basic Features and How to Use Them In Your Workflow",
+                "path": "random/docker-Swarm-Basic-Features-Slides.pdf"
             }
         ]
     }
