@@ -90,6 +90,11 @@
                 "type": "file",
                 "name": "Docker Bret Fisher Course All PDFs",
                 "path": "random/docker-bret-fisher-course.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Networking Foundations Local Area Networks",
+                "path": "random/Networking_Foundations_Local_Area_Networks.pdf"
             }
         ]
     }
