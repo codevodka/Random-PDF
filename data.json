@@ -95,6 +95,11 @@
                 "type": "file",
                 "name": "Networking Foundations Local Area Networks",
                 "path": "random/Networking_Foundations_Local_Area_Networks.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Recognizing Your Own Stress",
+                "path": "random/Recognizing-Your-Own-Stress.pdf"
             }
         ]
     }
