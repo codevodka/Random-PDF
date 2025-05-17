@@ -106,6 +106,12 @@
                 "name": "Relieve Stress 4 strategies",
                 "path": "random/Relieve-Stress-4-strategies.pdf"
             }
+            ,
+            {
+                "type": "file",
+                "name": "Introduction-to-cloud-basics",
+                "path": "random/Introduction-to-cloud-basics.pdf"
+            }
         ]
     }
 ]
