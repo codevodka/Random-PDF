@@ -105,12 +105,16 @@
                 "type": "file",
                 "name": "Relieve Stress 4 strategies",
                 "path": "random/Relieve-Stress-4-strategies.pdf"
-            }
-            ,
+            },
             {
                 "type": "file",
-                "name": "Introduction-to-cloud-basics",
+                "name": "Introduction to cloud basics",
                 "path": "random/Introduction-to-cloud-basics.pdf"
+            },
+            {
+                "type": "file",
+                "name": "Udemy Introduction to AWS Understand AWS basics in 3 hours",
+                "path": "random/Udemy_Introduction_to_AWS_Understand_AWS_basics.pdf"
             }
         ]
     }
